@@ -1,3 +1,4 @@
 # 30-days-of-code
 
-30 Days of Code Practice from HackerRank
+#HackerRank
+Here you can see my solutions to the #30DaysofCode practice problems.
